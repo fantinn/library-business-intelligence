@@ -33,5 +33,5 @@ Showcase practical SQL and Power BI skills for a Data / BI internship.
 ![Data Model](powerbi/prints/data_model.png)
 
 ## Key Analysis
-![Price vs Pages](powerbi/prints/detail_scatter_analysis.png)
+![Price vs Pages](powerbi/prints/detail_scatter_analysis.png.png)
 
