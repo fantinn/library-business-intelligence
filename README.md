@@ -1,5 +1,5 @@
 Library Business Intelligence
-Overview
+# Overview
 
 This project demonstrates a complete Business Intelligence workflow using SQL and Power BI to analyze a library dataset.
 
@@ -15,7 +15,7 @@ Subjects
 
 Views were created in SQL to generate an analytical layer consumed by Power BI.
 
-Analysis
+# Analysis
 
 The dashboard provides insights such as:
 Book price distribution
